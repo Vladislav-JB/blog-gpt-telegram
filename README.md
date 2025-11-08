@@ -1,5 +1,6 @@
-Генератор постов для блога в Telegram
+# Генератор постов для блога в Telegram
 
+## Описание проекта
 Создан в Zapier и Render через Python-код в Google Colab с API key от OpenAI.
 
 Google Colab - облачная платформа для разработки и выполнения Python-кода в браузере.

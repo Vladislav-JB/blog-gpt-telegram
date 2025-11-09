@@ -1,19 +1,26 @@
 # Генератор постов для блога в Telegram
 
 ## Описание проекта
-Создан в Zapier и Render через Python-код в Google Colab с API key от OpenAI.
+ Создан в Zapier и Render через Python-код в Google Colab с API key от OpenAI.
 
 Google Colab - облачная платформа для разработки и выполнения Python-кода в браузере.
 
+
 ![Скриншот 1](https://github.com/Vladislav-JB/blog-gpt-telegram/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%201.jpg?raw=true)
+
 
 Zapier (или Make) - инструмент для автоматизации рабочих процессов, который позволяет связывать различные веб-приложения и автоматизировать задачи, такие как отправка сообщений или обновление данных без написания кода.
 
+
 ![Скриншот 2](https://github.com/Vladislav-JB/blog-gpt-telegram/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%202.jpg?raw=true)
 
+
 Render (или Koyeb) - облачный сервис для автоматического развёртывания приложений и серверов, предоставляющий платформу для запуска веб-приложений, API и фоновых задач.
+
 
 ![Скриншот 3](https://github.com/Vladislav-JB/blog-gpt-telegram/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%203.jpg?raw=true)
 
 
+
 В коде мы можем настроить логику и обработку данных более гибко, например, использовать циклы, условия или создавать сложные запросы к API.
+
